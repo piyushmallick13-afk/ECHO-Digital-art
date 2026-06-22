@@ -1,0 +1,6 @@
+{
+  "name": "ECHO Digital Art",
+  "description": "E-commerce website for ECHO digital art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
